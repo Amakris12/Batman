@@ -1,0 +1,67 @@
+body{
+    /*background-image: url("background.jpg");
+    background-size: cover;*/
+    background-color: #000000;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%230c0b10' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23181720' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23232230' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%232f2e40' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%233b3950' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    color: white;
+    border: white 3px groove;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    width: 30%;
+    border: white 3px groove;
+    font-size: 160%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.below{
+    clear: left;
+}
+.below1{
+    clear: right;
+}
+#id1{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+iframe{
+    border: white 3px groove;
+}
+td{
+    text-align: center;
+    border: white 3px groove;
+    color: white;
+}
+table{
+    border: groove white 3px;
+    text-align: center;
+}
+img{
+    border: white 3px groove;
+}
+#id2{
+    border: white 3px groove;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+video{
+    border: groove white 3px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
